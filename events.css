@@ -1,0 +1,82 @@
+body {
+	padding-top: 5.5%;
+	background: url(https://hd.unsplash.com/photo-1464047736614-af63643285bf);
+    background-size: cover;
+    background-position: center;
+    font-family: Lato;
+    color: #FDE253;
+}
+
+html {
+	height: 100%;
+}
+
+#content {
+	text-align: center;
+	
+}
+
+
+h1{
+	font-size: 5em;
+	font-weight: 700;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+
+hr {
+	border-top: solid 1px #FDE253;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+
+img {
+    max-width: 50%;
+    border-radius: 15px;
+    float: left;
+    margin: 15px;
+
+}
+
+.events{
+    margin-bottom: 20px;
+}
+
+#famReunion{
+    background: rgba(253,226,83,.7);
+    margin: auto;
+    max-width: 90%;
+    overflow:auto;
+    border-radius: 15px;
+    border: 2px solid #FDE253;
+    font-size: 2em;        
+}
+
+#mattKristen{
+    background: rgba(253,226,83,.7);
+    margin: auto;
+    max-width: 90%;
+    overflow:auto;
+    border-radius: 15px;
+    border: 2px solid #FDE253;
+    font-size: 2em;        
+}
+
+a:visited{
+    color: #8D2153;   
+}
+
+a{
+    color: #8D2153;
+}
+
+a:hover{
+    text-decoration: none;
+    color: black;
+}
+
+/*.aw-widget-current{
+	height: 3px;
+}*/

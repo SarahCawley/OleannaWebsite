@@ -1,0 +1,90 @@
+body {
+	padding-top: 5.5%;
+    font-family: Lato;
+    color: #008080;
+    background: #800040; /* For browsers that do not support gradients */
+    background: url(https://hd.unsplash.com/photo-1417055345585-91d746e2d67a);
+	background-size: cover;
+    background-position: center;
+    padding-top: 7%;
+    text-align: center;
+    
+}
+
+html {
+	height: 100%;
+}
+
+
+.text{
+    margin:auto;
+    text-align: center;
+    padding-top: 3%;
+    max-width: 70%;
+    font-size: 1.15em;
+    font-weight: 800;
+    background: rgba(218,190,80,.9);
+    border-radius: 15px;
+    padding-bottom: 25px;
+    margin-bottom: 5%;
+}
+
+
+h1{
+	font-size: 4em;
+	font-weight: 700;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+
+hr {
+	border-top: solid 1px #008080;
+	border-bottom: 1px solid rgba(0,0,0,0.2);  
+}
+
+img{
+    max-width: 40%;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+a:visited{
+    color:#008080;
+}
+
+
+
+#textAbove{
+    margin-bottom: 25px;
+}
+
+#rsvp{
+    background: #da7950;
+    padding: 1% 5%;
+    border-radius: 15px;
+    font-size: 2em;
+    border: 2px solid #008080;
+    
+}
+
+a:hover { 
+    color: #b1da50;
+}
+
+
+.left-align {
+    display: inline-block;
+    width: 80%;
+    text-align: left;
+    color: #004c4c;
+}
+
+li{
+    margin-top: 1em;
+}
+
+li input{
+    margin-left: 15px;
+}
